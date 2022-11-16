@@ -1,0 +1,40 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    background-color: aqua;
+    color: blue;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+li a {
+    font-size: 24px;
+    line-height: 98px;
+    background-color: aqua;
+}
+
+li {
+    background-color: aqua;
+    line-height: 44px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
